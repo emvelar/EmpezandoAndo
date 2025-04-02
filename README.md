@@ -1,2 +1,5 @@
-# DataAnalytics
-Python en Colab
+- 👋 Hi, I’m @emvelar
+- 👀 I’m interested in Technology
+- 🌱 I’m currently learning Data Analytics.
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me Discord: Emvelar
